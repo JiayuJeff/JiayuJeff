@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JiayuJeff, a second year CS student in HKUST.
+- 👋 Hi, I’m @JiayuJeff, a second year CS student in [HKUST](https://hkust.edu.hk/).
 - 👀 I’m interested in Playing piano, violin and working out in gym
 - 🌱 I’m currently learning Natural Language Processing, especially on NLP application in Trustworthy ML
 - 💞️ I’m looking to collaborate on research topics related to AI
