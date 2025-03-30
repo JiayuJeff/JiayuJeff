@@ -5,7 +5,7 @@
 - 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
 - 📫 You can reach on my school email: jliufv@connect.ust.hk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been to ten countries at the age of 18!
+
 
 <!---
 JiayuJeff/JiayuJeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
